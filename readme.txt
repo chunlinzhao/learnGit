@@ -5,4 +5,4 @@ Git is a tool.`
 Git is a.
 Git is.
 Gi
-G
+G.
