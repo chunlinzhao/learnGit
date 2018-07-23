@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>items</key>
-	<dict>
-		<key>item 0</key>
+	<array>
 		<dict>
 			<key>metadata</key>
 			<dict>
@@ -15,7 +14,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>6.3.0</string>
 				<key>bundle-identifier</key>
 				<string>com.hongzhe.tldy.94Bank</string>
 			</dict>
@@ -23,7 +22,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>https://gitee.com/zhaochunlin_794/94/blob/master/94.ipa</string>
+					<string>https://github.com/chunlinzhao/learnGit/blob/master/94.ipa</string>
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
@@ -45,6 +44,6 @@
 				</dict>
 			</array>
 		</dict>
-	</dict>
+	</array>
 </dict>
 </plist>
